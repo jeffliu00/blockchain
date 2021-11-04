@@ -1,7 +1,6 @@
 {
   "name": "blockchain",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "solc": "^0.4.17"
@@ -11,5 +10,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jeffliu00/blockchain.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jeffliu00/blockchain/issues"
+  },
+  "homepage": "https://github.com/jeffliu00/blockchain#readme",
+  "description": ""
 }
